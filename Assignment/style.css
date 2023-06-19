@@ -1,0 +1,24 @@
+div{
+    overflow: hidden;
+    text-decoration: none;
+ background-color: rgb(240, 197, 197);
+    
+
+
+ 
+
+
+
+
+}
+h1{
+    text-align: center;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
